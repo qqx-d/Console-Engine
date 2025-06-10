@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0efbuGa8og=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdima\\RiderProjects\\Learn\\Learn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdima\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}

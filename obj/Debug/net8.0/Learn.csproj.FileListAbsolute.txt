@@ -1,0 +1,17 @@
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\Learn.exe
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\Learn.deps.json
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\Learn.runtimeconfig.json
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\Learn.dll
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\Learn.pdb
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.AssemblyInfoInputs.cache
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.AssemblyInfo.cs
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.csproj.CoreCompileInputs.cache
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.dll
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\refint\Learn.dll
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.pdb
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.genruntimeconfig.cache
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\ref\Learn.dll
+C:\Users\mdima\RiderProjects\Learn\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.csproj.AssemblyReference.cache
+C:\Users\mdima\RiderProjects\Learn\obj\Debug\net8.0\Learn.csproj.Up2Date
